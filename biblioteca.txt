@@ -1,0 +1,7 @@
+Livro Adicionado: bruno as conversa  por bruno  (ISBN: 1)
+Usuário Registrado: bruno rodrigues (ID: 1)
+Livro Adicionado: As Conversas por Bruno Rodrigues (ISBN: 978-3-16-148410-0)
+Usuário Registrado: caio silva (ID: 2)
+Usuário Registrado: lucas silva (ID: 3)
+Livro Adicionado: A volta dos que não foram por carlota  (ISBN: 1)
+Livro Emprestado: A volta dos que não foram para caio silva
